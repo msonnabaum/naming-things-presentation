@@ -551,7 +551,7 @@ out implementation details -->
 
 ## What word would you use
 ## in conversation a
-## domain expert?
+## with domain expert?
 
 ---
 
