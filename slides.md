@@ -550,8 +550,8 @@ out implementation details -->
 ---
 
 ## What word would you use
-## in conversation a
-## with domain expert?
+## in conversation with
+## a domain expert?
 
 ---
 
