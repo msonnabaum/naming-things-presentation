@@ -1,4 +1,8 @@
 /* Overrides */
+@font-face {
+  font-family: "Oswald";
+  src: url("../assets/fonts/oswald/Oswald-Regular.otf") format("opentype"); }
+
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   font-family: Oswald;
   line-height: 1.5em;
